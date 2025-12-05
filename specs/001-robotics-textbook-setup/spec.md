@@ -5,6 +5,13 @@
 **Status**: Draft
 **Input**: User description: "Project Specification: Physical AI & Humanoid Robotics Textbook..."
 
+## Clarifications
+
+### Session 2025-12-05
+
+- Q: What foundational theme should be used for the Docusaurus site to ensure a "professional, readable" appearance? → A: Use the default Docusaurus `classic` theme as the base.
+- Q: What is the public access level for the textbook? Should all content be publicly accessible without any login? → A: no login required for now, but authentication will be added letter.
+
 ## User Scenarios & Testing *(mandatory)*
 
 ### User Story 1 - Textbook Reader (Student) (Priority: P1)
@@ -54,7 +61,14 @@ As a Content Author, I want all documentation changes to fail the build if the d
 - **FR-005**: Main Navigation MUST include links to Home, Modules (main content), Code Examples (API/utilities), and Constitution.
 - **FR-006**: The core content MUST be structured as a Docusaurus Doc tree, versioned according to Principle IV.
 - **FR-007**: Code Examples MUST be in a separate Docusaurus structure.
-- **FR-008**: The site MUST implement a professional, readable theme with specific attention to typography, syntax highlighting, and mobile responsiveness.
+- **FR-008**: The site MUST use the default Docusaurus `classic` theme as a base to ensure a professional, readable experience with good typography, syntax highlighting, and mobile responsiveness.
+
+### Non-Functional Requirements
+
+#### Security & Privacy
+
+- **NFR-SEC-001**: All textbook content MUST be publicly accessible without requiring user authentication or login for the initial release.
+- **NFR-SEC-002**: Future iterations are expected to introduce authentication mechanisms; this should be considered in the architecture.
 
 ### Key Entities *(include if feature involves data)*
 
