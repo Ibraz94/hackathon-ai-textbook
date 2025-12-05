@@ -1,0 +1,203 @@
+{
+  "/physical-ai-textbook/__docusaurus/debug-1b0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/__docusaurus/debug/config-4ef": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/__docusaurus/debug/content-02c": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    },
+    "__props": "__props---physical-ai-textbook-docusaurus-debug-contentbe-4-6d3"
+  },
+  "/physical-ai-textbook/__docusaurus/debug/globalData-58f": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/__docusaurus/debug/metadata-647": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/__docusaurus/debug/registry-125": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/__docusaurus/debug/routes-aa1": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docusaurus-debugb-38-bdb"
+    }
+  },
+  "/physical-ai-textbook/markdown-page-0c3": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-markdown-pagea-74-f87"
+    },
+    "content": "content---physical-ai-textbook-markdown-page-393-670"
+  },
+  "/physical-ai-textbook/docs-880": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-docsaba-346"
+    }
+  },
+  "/physical-ai-textbook/docs/next-c72": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-textbook-docs-next-302-9ff"
+  },
+  "/physical-ai-textbook/docs/next-f65": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-textbook/docs/next/code-examples/-39e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-code-examples-a-49-54e"
+  },
+  "/physical-ai-textbook/docs/next/code-examples/example-1-204": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-code-examples-example-1-b-7-f-e08"
+  },
+  "/physical-ai-textbook/docs/next/constitution-4a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-constitution-863-9bb"
+  },
+  "/physical-ai-textbook/docs/next/hardware-context-ba4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-hardware-context-804-2d7"
+  },
+  "/physical-ai-textbook/docs/next/intro-6e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-intro-0-e-3-bef"
+  },
+  "/physical-ai-textbook/docs/next/modules/-ad9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-3-aa-54a"
+  },
+  "/physical-ai-textbook/docs/next/modules/ai-robot-brain-d74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-ai-robot-brain-76-d-723"
+  },
+  "/physical-ai-textbook/docs/next/modules/digital-twin-4da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-digital-twin-936-506"
+  },
+  "/physical-ai-textbook/docs/next/modules/MODULE_TEMPLATE-f9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-module-template-253-a60"
+  },
+  "/physical-ai-textbook/docs/next/modules/module-1-c5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-module-173-b-100"
+  },
+  "/physical-ai-textbook/docs/next/modules/ros2-nervous-system-32b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-ros-2-nervous-system-002-d89"
+  },
+  "/physical-ai-textbook/docs/next/modules/vla-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-modules-vla-420-c40"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/congratulations-983": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-congratulations-822-bd7"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/create-a-blog-post-33e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-create-a-blog-post-533-a83"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/create-a-document-b80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-create-a-document-1-e-4-33e"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/create-a-page-627": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-create-a-page-5-c-8-c4e"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/deploy-your-site-d22": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-deploy-your-sitef-55-913"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-basics/markdown-features-a11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-basics-markdown-features-18-c-849"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-extras/manage-docs-versions-c22": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-extras-manage-docs-versionsdff-03e"
+  },
+  "/physical-ai-textbook/docs/next/tutorial-extras/translate-your-site-f09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-next-tutorial-extras-translate-your-sitee-44-b3b"
+  },
+  "/physical-ai-textbook/docs-563": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-textbook-docs-802-02c"
+  },
+  "/physical-ai-textbook/docs-c5c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-textbook/docs/category/tutorial---basics-def": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-textbook-docs-category-tutorial-basics-785-1b6"
+  },
+  "/physical-ai-textbook/docs/category/tutorial---extras-4e4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-textbook-docs-category-tutorial-extras-0-d-9-521"
+  },
+  "/physical-ai-textbook/docs/intro-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-intro-5-d-9-3c3"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/congratulations-21c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-congratulations-793-6d9"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/create-a-blog-post-7a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-create-a-blog-post-4-c-7-ad2"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/create-a-document-8a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-create-a-documente-92-f8d"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/create-a-page-079": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-create-a-page-73-a-165"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/deploy-your-site-eeb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-deploy-your-siteacc-7e7"
+  },
+  "/physical-ai-textbook/docs/tutorial-basics/markdown-features-cfb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-basics-markdown-features-1-c-8-186"
+  },
+  "/physical-ai-textbook/docs/tutorial-extras/manage-docs-versions-b2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-extras-manage-docs-versions-573-653"
+  },
+  "/physical-ai-textbook/docs/tutorial-extras/translate-your-site-fa4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-textbook-docs-tutorial-extras-translate-your-siteabb-cef"
+  },
+  "/physical-ai-textbook/-94f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---physical-ai-textbook-markdown-pagea-74-f87"
+    },
+    "config": "config---physical-ai-textbook-5-e-9-b42"
+  }
+}

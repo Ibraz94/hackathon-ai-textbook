@@ -1,0 +1,28 @@
+{
+  "id": "hardware-context",
+  "title": "Hardware Context",
+  "description": "This section outlines the key hardware components recommended or required for engaging with the practical exercises and examples throughout the course. While cloud-based and virtual solutions are often prioritized for accessibility, understanding the physical hardware context is crucial for embodied AI.",
+  "source": "@site/docs/hardware-context.mdx",
+  "sourceDirName": ".",
+  "slug": "/hardware-context",
+  "permalink": "/physical-ai-textbook/docs/next/hardware-context",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware-context.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Hardware Context"
+  },
+  "sidebar": "modulesSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-textbook/docs/next/modules/vla"
+  },
+  "next": {
+    "title": "Constitution",
+    "permalink": "/physical-ai-textbook/docs/next/constitution"
+  }
+}

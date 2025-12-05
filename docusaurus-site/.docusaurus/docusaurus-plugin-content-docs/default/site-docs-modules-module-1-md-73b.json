@@ -1,0 +1,18 @@
+{
+  "id": "modules/module-1",
+  "title": "Module 1: Introduction to Robotics",
+  "description": "This is the first module, introducing the fascinating world of robotics.",
+  "source": "@site/docs/modules/module-1.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/module-1",
+  "permalink": "/physical-ai-textbook/docs/next/modules/module-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/module-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

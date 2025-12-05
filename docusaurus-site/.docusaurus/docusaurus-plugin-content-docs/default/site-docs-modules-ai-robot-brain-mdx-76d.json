@@ -1,0 +1,28 @@
+{
+  "id": "modules/ai-robot-brain",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "This module delves into the advanced artificial intelligence capabilities that empower modern robots, focusing on the NVIDIA Isaac platform. We will explore key AI techniques such as Visual Simultaneous Localization and Mapping (VSLAM), path planning, and robot manipulation, all integrated within the Isaac ecosystem.",
+  "source": "@site/docs/modules/ai-robot-brain.mdx",
+  "sourceDirName": "modules",
+  "slug": "/modules/ai-robot-brain",
+  "permalink": "/physical-ai-textbook/docs/next/modules/ai-robot-brain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ai-robot-brain.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)"
+  },
+  "sidebar": "modulesSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical-ai-textbook/docs/next/modules/digital-twin"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-textbook/docs/next/modules/vla"
+  }
+}

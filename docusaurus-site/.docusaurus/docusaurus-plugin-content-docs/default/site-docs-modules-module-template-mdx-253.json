@@ -1,0 +1,19 @@
+{
+  "id": "modules/MODULE_TEMPLATE",
+  "title": "Module X: [Module Title]",
+  "description": "[Brief overview of the module's content, purpose, and what students will achieve.]",
+  "source": "@site/docs/modules/MODULE_TEMPLATE.mdx",
+  "sourceDirName": "modules",
+  "slug": "/modules/MODULE_TEMPLATE",
+  "permalink": "/physical-ai-textbook/docs/next/modules/MODULE_TEMPLATE",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/MODULE_TEMPLATE.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module X: [Module Title]"
+  }
+}

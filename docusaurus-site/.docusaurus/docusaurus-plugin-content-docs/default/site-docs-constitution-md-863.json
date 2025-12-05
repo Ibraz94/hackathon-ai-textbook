@@ -1,0 +1,24 @@
+{
+  "id": "constitution",
+  "title": "Constitution",
+  "description": "The Constitution of the project outlines the guiding principles and architectural decisions for the Physical AI & Humanoid Robotics Textbook.",
+  "source": "@site/docs/constitution.md",
+  "sourceDirName": ".",
+  "slug": "/constitution",
+  "permalink": "/physical-ai-textbook/docs/next/constitution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/constitution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "modulesSidebar",
+  "previous": {
+    "title": "Hardware Context",
+    "permalink": "/physical-ai-textbook/docs/next/hardware-context"
+  },
+  "next": {
+    "title": "Code Examples",
+    "permalink": "/physical-ai-textbook/docs/next/code-examples/"
+  }
+}

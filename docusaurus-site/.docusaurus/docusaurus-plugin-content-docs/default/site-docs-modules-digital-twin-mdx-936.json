@@ -1,0 +1,28 @@
+{
+  "id": "modules/digital-twin",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "This module explores the concept of digital twins in robotics, focusing on how virtual environments like Gazebo and Unity can be used for simulation, testing, and development of robotic systems without the need for physical hardware. We will cover sensor simulation and environment modeling.",
+  "source": "@site/docs/modules/digital-twin.mdx",
+  "sourceDirName": "modules",
+  "slug": "/modules/digital-twin",
+  "permalink": "/physical-ai-textbook/docs/next/modules/digital-twin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/digital-twin.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)"
+  },
+  "sidebar": "modulesSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical-ai-textbook/docs/next/modules/ros2-nervous-system"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/physical-ai-textbook/docs/next/modules/ai-robot-brain"
+  }
+}

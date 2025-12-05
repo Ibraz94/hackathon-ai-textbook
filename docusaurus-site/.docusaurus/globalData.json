@@ -1,0 +1,189 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-textbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/physical-ai-textbook/docs/next",
+          "mainDocId": "modules/index",
+          "docs": [
+            {
+              "id": "code-examples/example-1",
+              "path": "/physical-ai-textbook/docs/next/code-examples/example-1"
+            },
+            {
+              "id": "code-examples/index",
+              "path": "/physical-ai-textbook/docs/next/code-examples/",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "constitution",
+              "path": "/physical-ai-textbook/docs/next/constitution",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "hardware-context",
+              "path": "/physical-ai-textbook/docs/next/hardware-context",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-textbook/docs/next/intro"
+            },
+            {
+              "id": "modules/ai-robot-brain",
+              "path": "/physical-ai-textbook/docs/next/modules/ai-robot-brain",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "modules/digital-twin",
+              "path": "/physical-ai-textbook/docs/next/modules/digital-twin",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "modules/index",
+              "path": "/physical-ai-textbook/docs/next/modules/",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "modules/MODULE_TEMPLATE",
+              "path": "/physical-ai-textbook/docs/next/modules/MODULE_TEMPLATE"
+            },
+            {
+              "id": "modules/module-1",
+              "path": "/physical-ai-textbook/docs/next/modules/module-1"
+            },
+            {
+              "id": "modules/ros2-nervous-system",
+              "path": "/physical-ai-textbook/docs/next/modules/ros2-nervous-system",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "modules/vla",
+              "path": "/physical-ai-textbook/docs/next/modules/vla",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/physical-ai-textbook/docs/next/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/physical-ai-textbook/docs/next/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/physical-ai-textbook/docs/next/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "modulesSidebar": {
+              "link": {
+                "path": "/physical-ai-textbook/docs/next/modules/",
+                "label": "Introduction to Modules"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.0.0",
+          "label": "1.0.0",
+          "isLast": true,
+          "path": "/physical-ai-textbook/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/physical-ai-textbook/docs/intro",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/congratulations",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/create-a-document",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/create-a-page",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/physical-ai-textbook/docs/tutorial-basics/markdown-features",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/physical-ai-textbook/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/physical-ai-textbook/docs/tutorial-extras/translate-your-site",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/physical-ai-textbook/docs/category/tutorial---basics",
+              "sidebar": "modulesSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/physical-ai-textbook/docs/category/tutorial---extras",
+              "sidebar": "modulesSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "modulesSidebar": {
+              "link": {
+                "path": "/physical-ai-textbook/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
