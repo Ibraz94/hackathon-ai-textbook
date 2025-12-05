@@ -1,0 +1,38 @@
+---
+sidebar_position: 5
+title: Hardware Context
+---
+
+# Hardware Context: Essential Components for Robotics AI
+
+This section outlines the key hardware components recommended or required for engaging with the practical exercises and examples throughout the course. While cloud-based and virtual solutions are often prioritized for accessibility, understanding the physical hardware context is crucial for embodied AI.
+
+## 1. NVIDIA RTX GPUs
+
+**Role**: Essential for high-performance computing, especially for AI-intensive simulations, deep learning model training, and real-time inference. Many of the NVIDIA Isaac Sim environments and LLM-integrated robotics tasks benefit significantly from the parallel processing capabilities of RTX GPUs.
+
+**Specific References**: RTX 30 Series (e.g., 3080, 3090) or RTX 40 Series (e.g., 4080, 4090).
+
+**Cloud/Virtual Access**: Cloud instances offering NVIDIA GPUs (e.g., AWS EC2 P- or G-series, Google Cloud A2 instances) are highly recommended alternatives for students without access to local RTX GPUs.
+
+## 2. NVIDIA Jetson Kits
+
+**Role**: These powerful, small-form-factor System-on-Modules (SOMs) are designed for AI at the edge. They are crucial for deploying and testing AI models directly on robotic platforms, enabling real-time inference and embedded intelligence.
+
+**Specific References**:
+*   **NVIDIA Jetson Orin Nano**: An entry-level yet powerful option for a wide range of AI and robotics applications.
+*   **NVIDIA Jetson AGX Xavier**: A higher-performance option for more demanding AI workloads and complex robotic systems.
+
+**Cloud/Virtual Access**: While physical Jetson kits are ideal for deployment, students can utilize Jetson emulators (e.g., within NVIDIA SDK Manager) or cloud services offering virtual Jetson environments for initial development and testing.
+
+## 3. RealSense D435i Sensor
+
+**Role**: A versatile depth-sensing camera from Intel, critical for tasks requiring depth perception, 3D reconstruction, and visual navigation (e.g., VSLAM). Its integrated IMU (Inertial Measurement Unit) is valuable for precise robot localization and mapping.
+
+**Specific References**: Intel RealSense D435i (or equivalent depth camera with integrated IMU capabilities).
+
+**Cloud/Virtual Access**: For simulation-based exercises, virtual sensors within environments like Gazebo or NVIDIA Isaac Sim can emulate the D435i's output, abstracting the need for the physical sensor.
+
+## Cloud-First Approach for Accessibility
+
+As clarified in the specification, cloud instances or virtual machines will be prioritized for hardware access where feasible. This approach aims to abstract away the necessity of owning specific physical hardware for many practical exercises, making the course more accessible. Students are encouraged to explore cloud provider offerings that meet the computational requirements outlined for each component.
