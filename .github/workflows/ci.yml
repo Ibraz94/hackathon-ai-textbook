@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - main
+      - 001-robotics-textbook-setup
   pull_request:
     branches:
       - main
+      - 001-robotics-textbook-setup
 
 jobs:
   build:
