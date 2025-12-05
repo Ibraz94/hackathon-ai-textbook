@@ -3,11 +3,11 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - master
       - 001-robotics-textbook-setup
   pull_request:
     branches:
-      - main
+      - master
       - 001-robotics-textbook-setup
 
 jobs:
