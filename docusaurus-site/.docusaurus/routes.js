@@ -38,6 +38,76 @@ export default [
     exact: true
   },
   {
+    path: '/physical-ai-textbook/blog',
+    component: ComponentCreator('/physical-ai-textbook/blog', 'a89'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/archive',
+    component: ComponentCreator('/physical-ai-textbook/blog/archive', '23c'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/authors',
+    component: ComponentCreator('/physical-ai-textbook/blog/authors', 'db7'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/physical-ai-textbook/blog/authors/all-sebastien-lorber-articles', 'abc'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/authors/yangshun',
+    component: ComponentCreator('/physical-ai-textbook/blog/authors/yangshun', 'c53'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/first-blog-post',
+    component: ComponentCreator('/physical-ai-textbook/blog/first-blog-post', '1c9'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/long-blog-post',
+    component: ComponentCreator('/physical-ai-textbook/blog/long-blog-post', '309'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/mdx-blog-post',
+    component: ComponentCreator('/physical-ai-textbook/blog/mdx-blog-post', 'da9'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/tags',
+    component: ComponentCreator('/physical-ai-textbook/blog/tags', '87b'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/tags/docusaurus',
+    component: ComponentCreator('/physical-ai-textbook/blog/tags/docusaurus', '735'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/tags/facebook',
+    component: ComponentCreator('/physical-ai-textbook/blog/tags/facebook', '736'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/tags/hello',
+    component: ComponentCreator('/physical-ai-textbook/blog/tags/hello', '137'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/tags/hola',
+    component: ComponentCreator('/physical-ai-textbook/blog/tags/hola', 'da4'),
+    exact: true
+  },
+  {
+    path: '/physical-ai-textbook/blog/welcome',
+    component: ComponentCreator('/physical-ai-textbook/blog/welcome', '983'),
+    exact: true
+  },
+  {
     path: '/physical-ai-textbook/markdown-page',
     component: ComponentCreator('/physical-ai-textbook/markdown-page', '0c3'),
     exact: true
